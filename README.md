@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on ... Smarkio Brasil
-- 🌱 I’m currently learning ... Node.js
-- 💬 Ask me about ... PHP
+- 🌱 I’m currently learning ... Elixir
+- 💬 Ask me about ... PHP && JS
 - 📫 How to reach me: ... https://www.linkedin.com/in/jonas-braga-2001/
 
 <!--

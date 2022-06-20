@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... OSF Digital
-- 🌱 I’m currently learning ... More about Node.js
-- 💬 Ask me about ... PHP && JS
+- 🔭 I’m currently working on ... Goodgame Studios
+- 🌱 I’m currently learning ... More about Node.js, TypeScript and Cloud development
+- 💬 Ask me about ... TS && JS && PHP
 - 📫 How to reach me: ... https://www.linkedin.com/in/jonas-braga-2001/
 
 <!--

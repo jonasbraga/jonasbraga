@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... Goodgame Studios
-- 🌱 I’m currently learning ... More about Node.js, TypeScript and Cloud development
-- 💬 Ask me about ... TS && JS && PHP
+- 🔭 I’m currently working on ... BrandBastion
+- 🌱 I’m currently learning ... More about Node.js and AWS Cloud development
+- 💬 Ask me about ... TS && AWS
 - 📫 How to reach me: ... https://www.linkedin.com/in/jonas-braga-2001/
 
 <!--
